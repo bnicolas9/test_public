@@ -1,3 +1,1 @@
-# test_private
-
-Private repository, test commit
+# test_public
